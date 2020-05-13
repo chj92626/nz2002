@@ -1,0 +1,1 @@
+oDiv = document.querySelector('div')
